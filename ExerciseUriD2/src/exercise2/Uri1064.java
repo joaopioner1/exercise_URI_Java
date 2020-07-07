@@ -16,7 +16,7 @@ public class Uri1064 {
 				acumulador = acumulador + num;
 			}
 		}
-		System.out.println(contador + " valores positivos");
+		System.out.println(contador + " valores positivos.");
 		System.out.printf("%.1f\n", (acumulador / contador));
 
 		entrada.close();
