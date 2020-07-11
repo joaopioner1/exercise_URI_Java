@@ -16,7 +16,6 @@ public class Uri1038 {
 		if (codigo == 1) {
 			System.out.printf("Total: R$ %.2f\n", quantidade * 4.00);
 		}
-
 		if (codigo == 2) {
 			System.out.printf("Total: R$ %.2f\n", quantidade * 4.50);
 		}
@@ -29,7 +28,7 @@ public class Uri1038 {
 		if (codigo == 5) {
 			System.out.printf("Total: R$ %.2f\n", quantidade * 1.50);
 		} else {
-			System.out.println("Este n˙mero n„o est· entre os cÛdigos.");
+			System.out.println("Este n√∫mero n√£o est√° entre os c√≥digos.");
 
 			in.close();
 		}
