@@ -8,6 +8,7 @@ public class Uri1067 {
 		Scanner in = new Scanner(System.in);
 		
 		int x = in.nextInt();
+
 		for (int i = 1; i < x || i == x == (x % 2 != 0); i += 2) {
 			System.out.println(i);
 			}
