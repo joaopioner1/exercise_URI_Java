@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Uri1071 {
 
 	public static void main(String[] args) {
+		//este código está com um erro e não consigo identificar onde é.
 		Scanner sc = new Scanner(System.in);
 
 		int x = sc.nextInt();
