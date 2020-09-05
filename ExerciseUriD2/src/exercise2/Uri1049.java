@@ -6,10 +6,10 @@ public class Uri1049 {
 	}
 
 	public static void main(String[] args) {
-		Scanner leitor = new Scanner(System.in);
-		String palavra1 = leitor.next();
-		String palavra2 = leitor.next();
-		String palavra3 = leitor.next();
+		Scanner in = new Scanner(System.in);
+		String palavra1 = in.next();
+		String palavra2 = in.next();
+		String palavra3 = in.next();
 		
 		if (palavra1.equalsIgnoreCase("vertebrado")) {
 			if (palavra2.equalsIgnoreCase("ave")) {
@@ -38,7 +38,7 @@ public class Uri1049 {
 				} else {
 					System.out.println("minhoca");
 					
-					leitor.close();
+					in.close();
 				}			
 			}
 		}
