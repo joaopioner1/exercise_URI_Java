@@ -12,7 +12,7 @@ public class Uri14 {
         
 		int x = leitor.nextInt();
                 double y = leitor.nextDouble();
-        double media = x / y;
+                double media = x / y;
    //Use String. Format se você precisar inserir o valor de um objeto, uma variável ou uma expressão em outra cadeia de caracteres
         System.out.println(String.format("%.3f km/l", media));   
 
