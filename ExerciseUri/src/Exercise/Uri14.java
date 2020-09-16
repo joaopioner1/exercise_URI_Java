@@ -11,9 +11,9 @@ public class Uri14 {
 		Scanner leitor = new Scanner(System.in);
         
 		int x = leitor.nextInt();
-        double y = leitor.nextDouble();
+                double y = leitor.nextDouble();
         double media = x / y;
-   //Use String. Format se você precisar inserir o valor de um objeto, uma variável ou uma expressão em outra cadeia de caracteres
+   //Use String. Format se vocÃª precisar inserir o valor de um objeto, uma variÃ¡vel ou uma expressÃ£o em outra cadeia de caracteres
         System.out.println(String.format("%.3f km/l", media));   
 
         leitor.close();
