@@ -17,9 +17,9 @@ public class Uri1035 {
 		if (B > C && D > A && C + D > A + B && C > 0 && D > 0 && A % 2 == 0)  {
 			System.out.println("Valores aceitos");
 		}
-		else 
+		else {
 			System.out.println("Valores nao aceitos");
-		
+		}
 			
 		
 		
