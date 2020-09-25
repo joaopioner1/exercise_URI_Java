@@ -19,7 +19,7 @@ public class Uri1035 {
 		}
 		else 
 			System.out.println("Valores nao aceitos");
-		{
+		
 			
 		}
 		
